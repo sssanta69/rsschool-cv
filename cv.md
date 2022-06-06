@@ -18,3 +18,12 @@ I have a bachelor's degree in __mechanical engineering technology__, but I like 
 At the moment I am getting a bachelor's degree in **web development** at Synergy University and I plan to enroll in a master's program in **project management**.
 In my spare time I like to _read scientific and fiction literature, travel and run_.
 >"It's easy to get into space, but it's hard to get into orbit." **_Elon Musk_**.
+#
+## My skills
+* HTML5
+* CSS3
+* JavaScript
+* Figma
+* Adobe Photoshop
+#
+##
