@@ -26,4 +26,7 @@ In my spare time I like to _read scientific and fiction literature, travel and r
 * Figma
 * Adobe Photoshop
 #
-##
+## Languages
+* Russian - native speaker
+* English - pre-intemediate
+* Sweden - beginner
